@@ -31,6 +31,3 @@ The steps to install **nifi** are:
         https://localhost:8443/nifi 
 
 9. Show my user and password in nifi-app_2022-06-13_15.0.log
-
-        Generated Username [75d19c51-db90-4d17-8648-240efcff0821]
-        Generated Password [rn33c+rkf3rXNb0Gz74Fhrkg/A9Gv+z8]
